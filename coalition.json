@@ -1,0 +1,19 @@
+{
+  [
+    {
+      "member-id": 1,
+      "full-name": "United States of America",
+      "slug": "USA"
+    },
+    {
+      "member-id": 2,
+      "full-name": "United Kingdom",
+      "slug": UK
+    },
+    {
+      "member-id": 3,
+      "full-name": "France",
+      "slug": "FRA"
+    }
+  ]
+}
