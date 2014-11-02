@@ -1,19 +1,57 @@
-{
-  [
-    {
-      "member-id": 1,
-      "full-name": "United States of America",
-      "slug": "USA"
-    },
-    {
-      "member-id": 2,
-      "full-name": "United Kingdom",
-      "slug": UK
-    },
-    {
-      "member-id": 3,
-      "full-name": "France",
-      "slug": "FRA"
-    }
-  ]
-}
+[{
+    "member-id": 1,
+    "full-name": "United States of America",
+    "slug": "USA"
+}, {
+    "member-id": 2,
+    "full-name": "United Kingdom",
+    "slug": "UK"
+}, {
+    "member-id": 3,
+    "full-name": "France",
+    "slug": "FRA"
+}, {
+    "member-id": 4,
+    "full-name": "Jordan",
+    "slug": "JOR"
+}, {
+    "member-id": 5,
+    "full-name": "Bahrain",
+    "slug": "BAH"
+}, {
+    "member-id": 6,
+    "full-name": "Qatar",
+    "slug": "QAT"
+}, {
+    "member-id": 7,
+    "full-name": "Saudi Arabia",
+    "slug": "SAU"
+}, {
+    "member-id": 8,
+    "full-name": "United Arab Emirates",
+    "slug": "UAE"
+}, {
+    "member-id": 9,
+    "full-name": "Belgium",
+    "slug": "BEL"
+}, {
+    "member-id": 10,
+    "full-name": "Denmark",
+    "slug": "DEN"
+}, {
+    "member-id": 11,
+    "full-name": "Netherlands",
+    "slug": "NET"
+}, {
+    "member-id": 12,
+    "full-name": "Australia",
+    "slug": "AUS"
+}, {
+    "member-id": 13,
+    "full-name": "Canada",
+    "slug": "CAN"
+}, {
+    "member-id": 14,
+    "full-name": "Partner Nation",
+    "slug": "PNT"
+}]
